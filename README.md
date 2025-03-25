@@ -8,37 +8,37 @@ a seasoned cybersecurity researcher with 13 years of experience in cybersecurity
 list of steps for a fresh Termux setup
 
 
-#Step 1: Change Repository
+# Step 1: Change Repository
 
 1. Open Termux and type: `termux-change-repo`
 2. Press Enter to continue.
 3. Select a repository and press Enter.
 
-#Step 2: Setup Storage
+# Step 2: Setup Storage
 
 1. Type: `termux-setup-storage`
 2. Press Enter to continue.
 3. Grant storage permissions to Termux.
 
-#Step 3: Update and Upgrade Packages
+# Step 3: Update and Upgrade Packages
 
 1. Type: `pkg update && pkg upgrade -y`
 2. Press Enter to execute the command.
 3. Wait for the update and upgrade process to complete.
 
-#Step 4: Install Git
+# Step 4: Install Git
 
 1. Type: `pkg i git`
 2. Press Enter to install Git.
 3. Wait for the installation to complete.
 
-#Step 5: Install Python
+# Step 5: Install Python
 
 1. Type: `pkg i python python2 python3`
 2. Press Enter to install Python.
 3. Wait for the installation to complete.
 
-#Step 6: Install nmap whois curl php  Packages
+# Step 6: Install nmap whois curl php  Packages
 
 1. Type: `pkg i nmap whois dnsutils curl wget php`
 2. Press Enter to install the packages.
@@ -46,7 +46,7 @@ list of steps for a fresh Termux setup
 
 You're now ready to use Termux with Git python 
 
-Example use :
+# Example use :
 
 - Clone a repository using Git: `git clone https://github.com/user/repo.git`
 - Run a Python script: `python script.py`
