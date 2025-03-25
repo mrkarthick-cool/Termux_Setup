@@ -56,3 +56,8 @@ You're now ready to use Termux with Git python
 - Download a file using Curl: `curl -O https://example.com/file.txt`
 - Download a file using Wget: `wget https://example.com/file.txt`
 - Run a PHP script: `php script.php`
+
+# Try This 
+
+
+ https://github.com/mrkarthick-cool/all_pkg_insrall/tree/Hack
