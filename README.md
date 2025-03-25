@@ -1,3 +1,9 @@
+------------------------------------------
+    Insta    : r_karthik
+    Telegram : Drak24Evil 
+------------------------------------------
+
+
 # Introduction_To_Myself 
 
 Hello visitors, I'm Karthik from Tamil Nadu 
