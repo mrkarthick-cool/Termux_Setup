@@ -1,6 +1,10 @@
 ------------------------------------------
-    Insta    : r_karthik
+    Insta    : mr_karthik
+    link  : https://www.instagram.com/mr_rkarthik
+    
     Telegram : Drak24Evil 
+    link      : https:/t.me/Drak24Evil
+    
 ------------------------------------------
 
 
@@ -67,3 +71,5 @@ You're now ready to use Termux with Git python
 
 
  https://github.com/mrkarthick-cool/all_pkg_insrall/tree/Hack
+
+
